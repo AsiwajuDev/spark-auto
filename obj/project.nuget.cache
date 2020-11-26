@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lij/MT8sAFPmWeUuuqWLM2F/NLWhvuyBwl9XmSuoS3E8ZyHIhopxbMKMhKME3K1LRa0jjUsuml7Pp5mr6XDFpQ==",
+  "dgSpecHash": "xqBaaKO2gwVK6GvcZr4vo4+LPTW8Sew8hcMJmCH714Di0E0Xnci9+3kC8nnQGuC3ZbApisoFG3GpSlwZZvKhUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IfeanyiTavia\\Documents\\Git\\.Net Core Solutions\\SparkAuto\\SparkAuto.csproj",
+  "projectFilePath": "C:\\Users\\IfeanyiTavia\\Documents\\Git\\.Net Core Solutions\\spark-auto\\SparkAuto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IfeanyiTavia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\IfeanyiTavia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
